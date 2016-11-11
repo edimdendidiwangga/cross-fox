@@ -1,0 +1,31 @@
+
+
+.header {
+	line-height : 5px;
+  border-top: 30px solid #FFF;
+  border-bottom: 30px solid #FFF;
+  border-color: darkorange;
+  padding: 20px 0px;
+  margin: 5px 0px;
+  text-align: center;
+  color: #d20a0a;
+  background-color: yellow;
+  
+}
+
+.header h2{
+	word-spacing: 5px;
+}
+
+.comment {
+	
+
+  border-top: 20px solid #FFF;
+ 
+  border-color: darkorange;
+  padding: 20px 0px;
+  margin: 5px 0px;
+  color: #d20a0a;
+  background-color: yellow;
+  
+}
